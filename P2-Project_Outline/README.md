@@ -9,7 +9,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 I will be creating a website for a fitness nutritionist.  
 Without a website, her clients contact her constantly 
-for meal plans and recipes that she provides for them.
+for meal plans and recipes that she provides for them. 
+This becomes redundant and is not "DRY" as we would say! 
 With a website, her clients will be able to have
 all of her recipes in one place, create their 
 weekly menus, and track their progress.  New clients 
@@ -46,7 +47,7 @@ Angular
 ### What I'll Have to Learn
 There are a few learning curves here! I will have to learn...
 1) How to fetch data from a file source to 
-view the recipes.  
+view the recipes as well as the testimonials.  
 2) How to apply Angular into IntelliJ. 
 3) How to apply OAuth for user login authorization. 
 
@@ -54,4 +55,4 @@ My client is wanting to add re-occurring paypal payments through
 the website, but I do not think that is possible? 
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/4xogEfK2/unit-3-liftoff-project
