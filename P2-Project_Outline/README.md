@@ -7,34 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I will be creating a website for a fitness nutritionist.  
-Without a website, her clients contact her constantly 
-for meal plans and recipes that she provides for them. 
-This becomes redundant and is not "DRY" as we would say! 
-With a website, her clients will be able to have
-all of her recipes in one place, create their 
-weekly menus, and track their progress.  New clients 
-will be able to look at the about page to learn more about 
-her program and view various testimonials. This will 
-save her a lot of time to hopefully grow her business
-and direct her focus elsewhere. I believe the clients 
-will also enjoy having their own user profile to view 
-instead of having to contact her all the time.
+I will be creating a website for a nutritionist. Currently, she has
+no online presence.  When approached by a new client, she will be able to direct them to her website. There,
+they can view more information about her program as well as see
+past clients that have had success. The user will be able to fill
+out a personal form to request more information from her and become
+a potential new client.  I would also like to implement special
+menus clients can purchase if they do not prefer to go the 
+personalized menu route. This will save her a lot of time and help
+grow her business. 
 
 ### Features
-User login: Users will be able to create accounts and log 
-in to the application. Each user will have a profile page and 
-list of recipes to choose from.
+New Client Form: Request more information for personalized menus 
+based on height, weight, medical history, activity level. 
 
-Search: Users will be able to search for recipes containing
-given text.
+View of testimonials: A page about her business with pictures of
+clients that have had success. 
 
-Create Menu: Users will be able to choose recipes for the week 
-and display their weekly menu once choosen. 
-
-Create Post: Users will be able to create new blog posts when 
-logged in. Blog posts will track meal plans and how they are 
-feeling. New posts will appear in the user’s profile.
+Special Menus to Purchase: If clients are not interested in having 
+a personalized menu made for them, there will be pre-made menus to 
+purchase.
 
 ### Technologies
 Java
@@ -47,12 +39,10 @@ Angular
 ### What I'll Have to Learn
 There are a few learning curves here! I will have to learn...
 1) How to fetch data from a file source to 
-view the recipes as well as the testimonials.  
+view the testimonials.  
 2) How to apply Angular into IntelliJ. 
 3) How to apply OAuth for user login authorization. 
-
-My client is wanting to add re-occurring paypal payments through
-the website, but I do not think that is possible? 
+4) How to add a purchasing feature for pre-made menus. 
 
 ### Project Tracker
 https://trello.com/b/4xogEfK2/unit-3-liftoff-project
