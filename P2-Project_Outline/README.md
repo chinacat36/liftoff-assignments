@@ -19,7 +19,7 @@ grow her business.
 
 ### Features
 New Client Form: Request more information for personalized menus 
-based on height, weight, medical history, activity level. 
+based on age, height, weight, medical history, activity level. 
 
 View of testimonials: A page about her business with pictures of
 clients that have had success. 
