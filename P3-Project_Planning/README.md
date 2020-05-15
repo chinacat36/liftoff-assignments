@@ -21,5 +21,6 @@ Include at least 3 wireframes here, adding images or files to your repository as
 https://trello.com/b/4xogEfK2/unit-3-liftoff-project
 
 ### Project Repo Link
+https://github.com/chinacat36/WeightLossCoach
 
 Include a link to your project on GitHub.
