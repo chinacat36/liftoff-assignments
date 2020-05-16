@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/chinacat36
+https://github.com/chinacat36/WeightLossCoach
  
 ### LinkedIn
 https://www.linkedin.com/in/nicole-holder-9131301aa/
