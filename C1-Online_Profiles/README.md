@@ -7,12 +7,14 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/chinacat36
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/nicole-holder-9131301aa/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+<embed src="file:///Users/nicoleholder/Downloads/TechResume.pdf" width="800px" height="2100px" />
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+*I'm not sure if I did that correctly and you are able to view my resume so here is another link:
+https://docs.google.com/document/d/1QHDJA-c-exv5bdELpMMpjCoyKZzT5wjMBiaUCdnAs6c/edit?usp=sharing
